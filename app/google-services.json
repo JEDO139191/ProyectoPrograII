@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907745312444",
+    "project_id": "tiendamascotas-42c98",
+    "storage_bucket": "tiendamascotas-42c98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907745312444:android:e877c1f50588218f389ab9",
+        "android_client_info": {
+          "package_name": "com.example.appmascota"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQOIjJCu1CTi0cGPhjr5bLwnhAs1951Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
